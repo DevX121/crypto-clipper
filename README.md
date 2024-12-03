@@ -11,8 +11,6 @@
 
 ## A GUI based builder for making custom crypto stealing malware
 ## GUI AND MALWARE DESIGNED FOR WINDOWS COMPUTERS - ANY OTHER SYSTEM WONT RUN
-# video guide - click takes to youtube  
-[![video link](https://img.youtube.com/vi/LCSdIR7-qqE/0.jpg)](https://youtu.be/LCSdIR7-qqE?si=NHwzbGYcxMrkz7wF)
 # features
 gui features
 - written with [customtkinter](https://github.com/TomSchimansky/CustomTkinter), [CTkToolTip](https://github.com/Akascape/CTkToolTip) and [hPyT](https://github.com/Zingzy/hPyT)
@@ -64,15 +62,7 @@ features i will want to add in the future
 
 if discord is being used  
 ![Screenshot 2024-06-03 233516](https://github.com/3022-2/crypto_clipper_builder/assets/82278708/b0111946-3bed-425c-a871-ebf63b9d33f1)
-# installation
-```bash
-git clone https://github.com/3022-2/raccoon_clipper.git
 
-cd raccoon_clipper
-
-pip install -r requirements.txt
-
-python main.pyw or double click main.pyw
 ```
 # how to uninstall malware
 1. kill the process in task manager and delete .exe
@@ -90,5 +80,3 @@ DISCLAIMER: The code provided in this repository is intended for educational and
   
 WARNING: THIS IS MAKES MALWARE DESIGNED FOR STEALING CRYPTOCURRENCY. USE UNINSTALL GUIDE IF UNINSTALL CODE FAILS. (not found error doesn't necessarily mean didnt uninstall)
 
-# contact
-discord: hyperborean__ (NOT ANYMORE, LOST ACCESS TO THE ACCOUNT)
