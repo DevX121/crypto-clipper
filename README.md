@@ -4,9 +4,7 @@ supports bitcoin, ethereum, litecoin, monero, solana, dogecoin, ripple, tron, bi
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 A GUI based builder for making custom crypto stealing malware
-GUI AND MALWARE DESIGNED FOR WINDOWS COMPUTERS - ANY OTHER SYSTEM WONT RUN
-video guide - click takes to youtube
-video link
+GUI AND MALWARE DESIGNED FOR WINDOWS COMPUTERS
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 written with customtkinter, CTkToolTip and hPyT
