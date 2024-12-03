@@ -1,5 +1,5 @@
 
-# AS OF 13th OCTOBER 2024 IT IS BROKEN, I WILL NOT BE FIXING IT
+
 
 # raccoon crypto clipper written in python
 
@@ -7,7 +7,7 @@
 
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)
 ![Maintenance](https://img.shields.io/maintenance/no/2024)
-![GitHub issues](https://img.shields.io/github/issues/3022-2/raccoon_clipper)
+![GitHub issues]([(https://github.com/XrDev123/crypto-clipper/issues))
 
 ## A GUI based builder for making custom crypto stealing malware
 ## GUI AND MALWARE DESIGNED FOR WINDOWS COMPUTERS - ANY OTHER SYSTEM WONT RUN
