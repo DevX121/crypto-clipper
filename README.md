@@ -1,18 +1,13 @@
-# crypto-clipper
-updated clipper supporting multiple types of crypto
 
-
-raccoon crypto clipper written in python
+crypto clipper written in python
 supports bitcoin, ethereum, litecoin, monero, solana, dogecoin, ripple, tron, bitcoin cash
-Documentation Maintenance GitHub issues
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 A GUI based builder for making custom crypto stealing malware
 GUI AND MALWARE DESIGNED FOR WINDOWS COMPUTERS - ANY OTHER SYSTEM WONT RUN
 video guide - click takes to youtube
 video link
-
-features
-gui features
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 written with customtkinter, CTkToolTip and hPyT
 uses pyarmor for obfuscating malware and pyinstaller for compiling to .exe
@@ -20,7 +15,7 @@ allows setting custom icons to the malware .exe
 allows setting custom name for the malware .exe
 has documentation built into the GUI under the documentation tab
 malware features
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 supports Bitcoin, bitcoin cash, Ethereum, Litecoin, Monero, Solana, Dogecoin, Ripple, Tron at the same time
 six different types of the same malware but using different methods. subprocess, ctypes and pyperclip
 tkinter uses the tkinter libary - fully python standard libary so no pip installs (is fastest + best on old/shit hardware)
@@ -38,6 +33,8 @@ has a 4 restart incubate feature
 has a ignore feature (to not run on computers with a given computer name)
 features i will want to add in the future
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
  more supported crypto currencies
  get public ip and define method with webhook
  self check to avoid multiple instances
@@ -56,22 +53,14 @@ features i will want to add in the future
  add fake error
  add decoy programs
  new error method to replace ctkmessagebox
-pictures
-image
-image
-image
 
-if discord is being used
-Screenshot 2024-06-03 233516
 
-installation
-git clone https://github.com/3022-2/raccoon_clipper.git
 
-cd raccoon_clipper
+how to start builder
+double click builder.exe
 
-pip install -r requirements.txt
 
-python main.pyw or double click main.pyw
+
 how to uninstall malware
 kill the process in task manager and delete .exe
 run uninstaller.py in uninstaller folder - if there is an error removing registry entry (cant find path) this is fine it means it isnt in startup anyway
@@ -82,6 +71,9 @@ goto %appdata%
 delete storage0 folder and CLPPTH folder
 goto Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 delete entry named CLPPTH
+
+
+
 legal
 DISCLAIMER: The code provided in this repository is intended for educational and malware analysis purposes only. Any use of this code for illegal or unethical activities is strictly prohibited. The author of this code shall not be held responsible for any misuse or damage resulting from its use. Users are solely responsible for ensuring compliance with applicable laws and ethical standards.
 
