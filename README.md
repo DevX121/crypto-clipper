@@ -34,7 +34,7 @@ malware features
 - option to ping @everyone
 - malware saved as .pyw and then compiled to .exe meaning that the malware runs in the background silently
 - has a 4 restart incubate feature
-- has a ignore feature (to not run on computers with a given computer name)
+- has a ignore feature (to not run on computers with a given computer name).
 
 features i will want to add in the future
 - [x] more supported crypto currencies 
