@@ -1,7 +1,7 @@
 
 
 
-# raccoon crypto clipper written in python
+crypto clipper written in python
 
 ## **supports bitcoin, ethereum, litecoin, monero, solana, dogecoin, ripple, tron, bitcoin cash**
 
