@@ -64,16 +64,7 @@ if discord is being used
 ![Screenshot 2024-06-03 233516](https://github.com/3022-2/crypto_clipper_builder/assets/82278708/b0111946-3bed-425c-a871-ebf63b9d33f1)
 
 ```
-# how to uninstall malware
-1. kill the process in task manager and delete .exe
-2. run uninstaller.py in uninstaller folder - if there is an error removing registry entry (cant find path) this is fine it means it isnt in startup anyway
 
-you can also manual uninstall
-1. kill the process in task manager and delete .exe
-2. goto %appdata%
-3. delete storage0 folder and CLPPTH folder
-4. goto Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
-5. delete entry named CLPPTH
 
 # legal
 DISCLAIMER: The code provided in this repository is intended for educational and malware analysis purposes only. Any use of this code for illegal or unethical activities is strictly prohibited. The author of this code shall not be held responsible for any misuse or damage resulting from its use. Users are solely responsible for ensuring compliance with applicable laws and ethical standards.  
